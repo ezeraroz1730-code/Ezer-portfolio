@@ -117,7 +117,7 @@ li {
 .project {
   padding: 18px;
   margin: 15px 0;
-  background: cornflowerblue;
+  background: rgb(30, 30, 31);
   border-radius: 8px;
   border-left: 4px solid #48ac3f;
 }
